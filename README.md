@@ -1,2 +1,4 @@
-# Create-Package-Director
-Issues for https://git.stefdp.com/Stef/Create-Package-Director
+# Issues repository for "Create: Package Director"
+
+> [!NOTE]
+> The source code available at: https://git.stefdp.com/Stef/Create-Package-Director
